@@ -1,7 +1,7 @@
 ## Test Matik
 
 
-**Yazılım mühendisliği 2. sınıfta "Yazılım Yapımı" dersi kapsamında yazmış olduğum test sınavı hazırlama programı. Visual Studio ortamında C# dili ile yazılmıştır, raporlama için Crystal Report eklentisini kullanır.TestMatic'te kategorize edilmiş bir hiyerarşi yapısı bulunur. Veritabanı tabloları birbiri ile ilişkili olduğu için bir sınav oluşturmak istediğiniz zaman sırasıyla:**
+**Yazılım mühendisliği 2. sınıfta "Yazılım Yapımı" dersi kapsamında yazmış olduğumuz test sınavı hazırlama programı. Visual Studio ortamında C# dili ile yazılmıştır, raporlama için Crystal Report eklentisini kullanır.TestMatic'te kategorize edilmiş bir hiyerarşi yapısı bulunur. Veritabanı tabloları birbiri ile ilişkili olduğu için bir sınav oluşturmak istediğiniz zaman sırasıyla:**
 
 - Fakülte
 - Hoca
