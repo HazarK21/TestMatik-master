@@ -1,23 +1,23 @@
-## Test Matik
+## Test Matic
 
 
-**Yazılım mühendisliği 2. sınıfta "Yazılım Yapımı" dersi kapsamında yazmış olduğumuz test sınavı hazırlama programı. Visual Studio ortamında C# dili ile yazılmıştır, raporlama için Crystal Report eklentisi kullanılır. TestMatic'te kategorize edilmiş bir hiyerarşi yapısı bulunur. Veritabanı tabloları birbiri ile ilişkili olduğu için bir sınav oluşturmak istediğiniz zaman sırasıyla:**
+**Software engineering second grade project. This program creates a test, was developed in Visual Studio environment with C# programming language. Used Crystal Report add-on for reports. TestMatic'te kategorize edilmiş bir hiyerarşi yapısı bulunur. Database tables are connected to each other so when creating a test you need to choose;**
 
-- Fakülte
-- Hoca
-- Ders
-- Sınav
+- Department
+- Teacher
+- Lesson
+- Test
 
-**oluşturmanız gerekir.**
+**in the order above.**
 
-**Uygulama, soruları ve cevapları karıştırılmış test sınavları oluşturur, depolar ve bunları pdf formatında almanızı sağlar**
+**This program generates a test axam with mixed order of questions and answer choices, stores them and lets us save them in pdf format.**
 
-**Çalışması için testmatik.mdf dosyasını MS SQL Server'a attach etmeniz gerekiyor.**
+**Need to attact testmatik.mdf file to MS SQL Server to make it work.**
 
 
-## Ana Menü ve Kategoriler
+## Main Menu and Categories
 ![TestMatic1](https://user-images.githubusercontent.com/14932895/163800362-962a9933-b8d0-4975-a3dc-e52c5ae74b63.jpg)
-## Sorular ve Sınav Hazırlama 
+## Questions and Test Generating
 ![TestMatic2](https://user-images.githubusercontent.com/14932895/163800963-4ea9e18c-75ca-4fbe-9da6-2b5909d05516.jpg)
-## Kayıtlı Sınav İşlemleri
+## Saved Test Procedures.
 ![TestMatic3](https://user-images.githubusercontent.com/14932895/163800967-f147589a-6797-459e-9870-eba11ba6d9a2.jpg)
